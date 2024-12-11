@@ -1,0 +1,9 @@
+﻿namespace Practial_3
+{
+  @WebApplication1_HostAddress = http://localhost:5115
+
+GET {{WebApplication1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+}
